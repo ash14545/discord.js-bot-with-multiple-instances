@@ -1,0 +1,22 @@
+{
+  "name": "discord.js-bot-with-multiple-instances",
+  "version": "1.0.0",
+  "description": "A discord.js bot that supports logging into multiple tokens with their own unique prefixes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ash14545/discord.js-bot-with-multiple-instances.git"
+  },
+  "author": "Russ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ash14545/discord.js-bot-with-multiple-instances/issues"
+  },
+  "homepage": "https://github.com/ash14545/discord.js-bot-with-multiple-instances#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
